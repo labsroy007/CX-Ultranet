@@ -13,5 +13,5 @@ Conclusion: The proposed CX-Ultra net gives higher average accuracy and efficien
 
 ## Authors
 
-- [@Anwesh Kabiraj](https://www.github.com/octokatherine)
+- [@Anwesh Kabiraj](https://www.linkedin.com/in/anwesh-kabiraj-060855153/)
 
