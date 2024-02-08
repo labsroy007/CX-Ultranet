@@ -9,7 +9,7 @@ Results and Discussion: The CX-Ultra net achieves 88% average prediction accurac
 
 Conclusion: The proposed CX-Ultra net gives higher average accuracy and efficiently handles the dataset’s class imbalance. It also has a significantly less network training time in terms of FLOPS, therefore creating a new benchmark in disease detection from chest X-Rays
 
-
+Cite Paper : Kabiraj, A., Meena, T., Reddy, P.B. et al. Multiple thoracic diseases detection from X-rays using CX-Ultranet. Health Technol. (2024). https://doi.org/10.1007/s12553-024-00820-3
 
 ## Authors
 
